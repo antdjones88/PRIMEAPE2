@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Apr 2022 14:15:09 at https://www.theprimeapeplanetmint.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.theprimeapeplanetmint.com/ -O1 "C:\My Web Sites\PRIME APES SAUCE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:15:31	Error: 	"Not Found" (404) at link https://www.theprimeapeplanetmint.com/i.ibb.co/W5XrFFr/bann5.png (from https://www.theprimeapeplanetmint.com/)
+14:15:32	Error: 	"Not Found" (404) at link https://www.theprimeapeplanetmint.com/index-2.html (from https://www.theprimeapeplanetmint.com/css/bootstrap.css)
+14:15:32	Warning: 	File not parsed, looks like binary: https://www.theprimeapeplanetmint.com/fonts/LemonMilkitalic.woff2
+14:15:32	Warning: 	File not parsed, looks like binary: https://www.theprimeapeplanetmint.com/fonts/LemonMilkbold.woff2
+14:15:33	Warning: 	File not parsed, looks like binary: https://www.theprimeapeplanetmint.com/fonts/LemonMilkbolditalic.woff2
+14:15:33	Warning: 	File not parsed, looks like binary: https://www.theprimeapeplanetmint.com/fonts/LemonMilklight.woff2
+14:15:34	Warning: 	File not parsed, looks like binary: https://www.theprimeapeplanetmint.com/fonts/LemonMilklightitalic.woff2
+14:15:34	Warning: 	File not parsed, looks like binary: https://www.theprimeapeplanetmint.com/fonts/LemonMilk.woff2
+14:15:35	Error: 	"Not Found" (404) at link https://www.theprimeapeplanetmint.com/assets/images/header-smoke.html (from https://www.theprimeapeplanetmint.com/static/css/main.229ff425.chunk.css)
+14:15:35	Error: 	"Not Found" (404) at link https://www.theprimeapeplanetmint.com/c (from https://connect.facebook.net/en_US/fbevents.js)
+14:15:35	Error: 	"Not Found" (404) at link https://www.theprimeapeplanetmint.com/b (from https://connect.facebook.net/en_US/fbevents.js)
+14:15:35	Error: 	"Not Found" (404) at link https://www.theprimeapeplanetmint.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 96 links scanned, 89 files written (15205710 bytes overall) [11665043 bytes received at 448655 bytes/sec], 4929600 bytes transferred using HTTP compression in 24 files, ratio 27%, 16.0 requests per connection
+(6 errors, 6 warnings, 0 messages)
